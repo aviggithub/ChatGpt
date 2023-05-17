@@ -16,8 +16,7 @@ pip install -r requirements.txt
 # Change API key in chatgpt_chatbot_webapp.py file
 openai.api_key = "Your Key"
 
-
-# Then Run the following command to Start Streamlit chatbot web Aplication :-
+Then Run the following command to Start Streamlit chatbot web Application :-
 
 streamlit run chatbot_gpt_stramlit.py
 
